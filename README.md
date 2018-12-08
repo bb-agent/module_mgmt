@@ -1,4 +1,4 @@
 module_mgmt
 ============
 
-FruityWiFi mgmt module
+BlackBlulb mgmt module
