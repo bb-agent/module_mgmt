@@ -1,7 +1,7 @@
 <?php
 $mod_name="mgmt";
 $mod_version="1.1";
-$mod_path="/usr/share/fruitywifi/www/modules/$mod_name";
+$mod_path="/usr/share/blackbulb/www/modules/$mod_name";
 $mod_logs="$log_path/dnsmasq-mgmt.log";
 $mod_logs_history="$mod_path/includes/logs/";
 $mod_panel="show";
@@ -25,7 +25,7 @@ $mod_mgmt_io_out_mask="255.255.255.0";
 $mod_mgmt_io_out_gw="192.168.0.1";
 $mod_mgmt_hostapd_secure="0";
 $mod_mgmt_hostapd_ssid="MGMT";
-$mod_mgmt_hostapd_wpa_passphrase="FruityWifi";
+$mod_mgmt_hostapd_wpa_passphrase="BlackBulb";
 
 # EXEC
 $bin_sudo = "/usr/bin/sudo";
